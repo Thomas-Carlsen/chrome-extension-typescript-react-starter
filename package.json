@@ -1,0 +1,14 @@
+{
+  "name": "chrome-extension-typescript-react-starter",
+  "version": "1.0.0",
+  "description": "This is a starter project to easily make a chrome extension with typescript and react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Carlsen",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
