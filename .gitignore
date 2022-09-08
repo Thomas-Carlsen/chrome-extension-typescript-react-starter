@@ -102,3 +102,16 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+
+# custom ignores and might change when a better structure have been found
+extension/background.js
+extension/content.js
+extension/popup.html
+
+final-extension/components*
+final-extension/static*
+
+src/popup*
+
